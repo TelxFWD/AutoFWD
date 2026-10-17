@@ -1,0 +1,390 @@
+2026-10-16 17:15:25,267 - __main__ - INFO - Starting Telegram Bot System initialization...
+2026-10-16 17:15:25,267 - config - INFO - Environment configuration validated successfully
+2026-10-16 17:15:25,324 - database - INFO - Database initialized: bot.db
+2026-10-16 17:15:25,921 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8333670849:AAF6umzqjNT9RGwtKMAa4no1Rh7MLbsatts/getMe "HTTP/1.1 200 OK"
+2026-10-16 17:15:25,922 - bot_manager - INFO - Admin bot initialized: @autofwdxadminbot
+2026-10-16 17:15:25,943 - bot_manager - INFO - Admin bot command handlers configured
+2026-10-16 17:15:26,530 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7763869226:AAHEWmD_xF3weTiIpOMfphg9iFvWALm_FyM/getMe "HTTP/1.1 200 OK"
+2026-10-16 17:15:26,531 - bot_manager - INFO - Bot 0 initialized: @insiderfwdxbot
+2026-10-16 17:15:26,633 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-10-16 17:15:28,663 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-10-16 17:15:29,542 - telethon.client.users - INFO - Phone migrated to 5
+2026-10-16 17:15:29,713 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 5
+2026-10-16 17:15:29,888 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2026-10-16 17:15:29,889 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-10-16 17:15:29,889 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.182:443/TcpFull...
+2026-10-16 17:15:31,509 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.182:443/TcpFull complete!
+2026-10-16 17:18:09,970 - __main__ - INFO - Received signal 2, initiating shutdown...
+2026-10-16 17:22:54,537 - __main__ - INFO - Starting Telegram Bot System initialization...
+2026-10-16 17:22:54,537 - config - INFO - Environment configuration validated successfully
+2026-10-16 17:22:54,542 - database - INFO - Database initialized: bot.db
+2026-10-16 17:22:55,154 - bot_manager - INFO - Admin bot initialized: @autofwdxadminbot
+2026-10-16 17:22:55,176 - bot_manager - INFO - Admin bot command handlers configured
+2026-10-16 17:22:55,363 - bot_manager - INFO - Bot 0 initialized: @insiderfwdxbot
+2026-10-16 17:22:55,391 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.182:443/TcpFull...
+2026-10-16 17:22:55,553 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.182:443/TcpFull complete!
+2026-10-16 17:24:07,362 - __main__ - INFO - Received signal 2, initiating shutdown...
+2026-10-16 17:24:37,530 - __main__ - INFO - Starting Telegram Bot System initialization...
+2026-10-16 17:24:37,531 - config - INFO - Environment configuration validated successfully
+2026-10-16 17:24:37,537 - database - INFO - Database initialized: bot.db
+2026-10-16 17:24:38,140 - bot_manager - INFO - Admin bot initialized: @autofwdxadminbot
+2026-10-16 17:24:38,173 - bot_manager - INFO - Admin bot command handlers configured
+2026-10-16 17:24:38,361 - bot_manager - INFO - Bot 0 initialized: @insiderfwdxbot
+2026-10-16 17:24:38,392 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.182:443/TcpFull...
+2026-10-16 17:24:38,554 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.182:443/TcpFull complete!
+2026-10-16 17:24:51,105 - bot_manager - INFO - Telethon client initialized
+2026-10-16 17:24:51,108 - bot_manager - INFO - Loaded 0 pairs from database
+2026-10-16 17:24:51,109 - bot_manager - INFO - Bot manager initialized with 1 bots
+2026-10-16 17:24:51,109 - __main__ - INFO - System initialization completed successfully
+2026-10-16 17:24:51,612 - telegram.ext.Application - INFO - Application started
+2026-10-16 17:24:51,612 - bot_manager - INFO - Started admin bot application
+2026-10-16 17:24:51,612 - bot_manager - INFO - Started admin bot polling
+2026-10-16 17:24:52,124 - telegram.ext.Application - INFO - Application started
+2026-10-16 17:24:52,124 - bot_manager - INFO - Started bot application 0
+2026-10-16 17:24:52,124 - bot_manager - INFO - Message worker 0 started
+2026-10-16 17:24:52,124 - bot_manager - INFO - Message worker 1 started
+2026-10-16 17:24:52,124 - bot_manager - INFO - Message worker 2 started
+2026-10-16 17:24:52,124 - bot_manager - INFO - Message worker 3 started
+2026-10-16 17:24:52,124 - bot_manager - INFO - Message worker 4 started
+2026-10-16 17:24:52,124 - bot_manager - INFO - Message worker 5 started
+2026-10-16 17:24:52,125 - bot_manager - INFO - Message worker 6 started
+2026-10-16 17:24:52,125 - bot_manager - INFO - Message worker 7 started
+2026-10-16 17:24:52,125 - bot_manager - INFO - Message worker 8 started
+2026-10-16 17:24:52,125 - bot_manager - INFO - Message worker 9 started
+2026-10-16 17:24:52,125 - bot_manager - INFO - Message worker 10 started
+2026-10-16 17:24:52,125 - bot_manager - INFO - Message worker 11 started
+2026-10-16 17:24:52,125 - bot_manager - INFO - Message worker 12 started
+2026-10-16 17:24:52,125 - bot_manager - INFO - Message worker 13 started
+2026-10-16 17:24:52,125 - bot_manager - INFO - Message worker 14 started
+2026-10-16 17:24:52,125 - bot_manager - INFO - Message worker 15 started
+2026-10-16 17:24:52,125 - bot_manager - INFO - Message worker 16 started
+2026-10-16 17:24:52,126 - bot_manager - INFO - Message worker 17 started
+2026-10-16 17:24:52,126 - bot_manager - INFO - Message worker 18 started
+2026-10-16 17:24:52,126 - bot_manager - INFO - Message worker 19 started
+2026-10-16 17:24:52,127 - bot_manager - INFO - Message worker 20 started
+2026-10-16 17:24:52,127 - bot_manager - INFO - Message worker 21 started
+2026-10-16 17:24:52,127 - bot_manager - INFO - Message worker 22 started
+2026-10-16 17:24:52,128 - bot_manager - INFO - Message worker 23 started
+2026-10-16 17:24:52,128 - bot_manager - INFO - Message worker 24 started
+2026-10-16 17:24:52,129 - bot_manager - INFO - Message worker 25 started
+2026-10-16 17:24:52,129 - bot_manager - INFO - Message worker 26 started
+2026-10-16 17:24:52,129 - bot_manager - INFO - Message worker 27 started
+2026-10-16 17:24:52,129 - bot_manager - INFO - Message worker 28 started
+2026-10-16 17:24:52,130 - bot_manager - INFO - Message worker 29 started
+2026-10-16 17:24:52,130 - bot_manager - INFO - Message worker 30 started
+2026-10-16 17:24:52,130 - bot_manager - INFO - Message worker 31 started
+2026-10-16 17:24:52,130 - bot_manager - INFO - Message worker 32 started
+2026-10-16 17:24:52,131 - bot_manager - INFO - Message worker 33 started
+2026-10-16 17:24:52,131 - bot_manager - INFO - Message worker 34 started
+2026-10-16 17:24:52,131 - bot_manager - INFO - Message worker 35 started
+2026-10-16 17:24:52,132 - bot_manager - INFO - Message worker 36 started
+2026-10-16 17:24:52,132 - bot_manager - INFO - Message worker 37 started
+2026-10-16 17:24:52,132 - bot_manager - INFO - Message worker 38 started
+2026-10-16 17:24:52,132 - bot_manager - INFO - Message worker 39 started
+2026-10-16 17:24:52,133 - bot_manager - INFO - Message worker 40 started
+2026-10-16 17:24:52,133 - bot_manager - INFO - Message worker 41 started
+2026-10-16 17:24:52,133 - bot_manager - INFO - Message worker 42 started
+2026-10-16 17:24:52,133 - bot_manager - INFO - Message worker 43 started
+2026-10-16 17:24:52,134 - bot_manager - INFO - Message worker 44 started
+2026-10-16 17:24:52,134 - bot_manager - INFO - Message worker 45 started
+2026-10-16 17:24:52,134 - bot_manager - INFO - Message worker 46 started
+2026-10-16 17:24:52,134 - bot_manager - INFO - Message worker 47 started
+2026-10-16 17:24:52,134 - bot_manager - INFO - Message worker 48 started
+2026-10-16 17:24:52,134 - bot_manager - INFO - Message worker 49 started
+2026-10-16 17:24:52,134 - bot_manager - INFO - Bot manager started successfully
+2026-10-16 17:24:52,135 - health_monitor - INFO - Health monitor started
+2026-10-16 17:24:52,135 - __main__ - INFO - === Telegram Bot System Started ===
+2026-10-16 17:24:52,135 - __main__ - INFO - Active bot tokens: 1
+2026-10-16 17:24:52,135 - __main__ - INFO - Bot management available via Telegram commands
+2026-10-16 17:24:52,135 - __main__ - INFO - Debug mode: False
+2026-10-16 17:24:52,135 - bot_manager - INFO - Message worker 0 started
+2026-10-16 17:24:52,135 - bot_manager - INFO - Message worker 1 started
+2026-10-16 17:24:52,136 - bot_manager - INFO - Message worker 2 started
+2026-10-16 17:24:52,136 - bot_manager - INFO - Message worker 3 started
+2026-10-16 17:24:52,137 - bot_manager - INFO - Message worker 4 started
+2026-10-16 17:24:52,137 - bot_manager - INFO - Message worker 5 started
+2026-10-16 17:24:52,137 - bot_manager - INFO - Message worker 6 started
+2026-10-16 17:24:52,137 - bot_manager - INFO - Message worker 7 started
+2026-10-16 17:24:52,138 - bot_manager - INFO - Message worker 8 started
+2026-10-16 17:24:52,138 - bot_manager - INFO - Message worker 9 started
+2026-10-16 17:24:52,138 - bot_manager - INFO - Message worker 10 started
+2026-10-16 17:24:52,139 - bot_manager - INFO - Message worker 11 started
+2026-10-16 17:24:52,139 - bot_manager - INFO - Message worker 12 started
+2026-10-16 17:24:52,139 - bot_manager - INFO - Message worker 13 started
+2026-10-16 17:24:52,140 - bot_manager - INFO - Message worker 14 started
+2026-10-16 17:24:52,140 - bot_manager - INFO - Message worker 15 started
+2026-10-16 17:24:52,140 - bot_manager - INFO - Message worker 16 started
+2026-10-16 17:24:52,141 - bot_manager - INFO - Message worker 17 started
+2026-10-16 17:24:52,141 - bot_manager - INFO - Message worker 18 started
+2026-10-16 17:24:52,141 - bot_manager - INFO - Message worker 19 started
+2026-10-16 17:24:52,141 - bot_manager - INFO - Message worker 20 started
+2026-10-16 17:24:52,142 - bot_manager - INFO - Message worker 21 started
+2026-10-16 17:24:52,142 - bot_manager - INFO - Message worker 22 started
+2026-10-16 17:24:52,143 - bot_manager - INFO - Message worker 23 started
+2026-10-16 17:24:52,143 - bot_manager - INFO - Message worker 24 started
+2026-10-16 17:24:52,143 - bot_manager - INFO - Message worker 25 started
+2026-10-16 17:24:52,143 - bot_manager - INFO - Message worker 26 started
+2026-10-16 17:24:52,144 - bot_manager - INFO - Message worker 27 started
+2026-10-16 17:24:52,144 - bot_manager - INFO - Message worker 28 started
+2026-10-16 17:24:52,144 - bot_manager - INFO - Message worker 29 started
+2026-10-16 17:24:52,144 - bot_manager - INFO - Message worker 30 started
+2026-10-16 17:24:52,145 - bot_manager - INFO - Message worker 31 started
+2026-10-16 17:24:52,145 - bot_manager - INFO - Message worker 32 started
+2026-10-16 17:24:52,145 - bot_manager - INFO - Message worker 33 started
+2026-10-16 17:24:52,146 - bot_manager - INFO - Message worker 34 started
+2026-10-16 17:24:52,146 - bot_manager - INFO - Message worker 35 started
+2026-10-16 17:24:52,147 - bot_manager - INFO - Message worker 36 started
+2026-10-16 17:24:52,147 - bot_manager - INFO - Message worker 37 started
+2026-10-16 17:24:52,148 - bot_manager - INFO - Message worker 38 started
+2026-10-16 17:24:52,148 - bot_manager - INFO - Message worker 39 started
+2026-10-16 17:24:52,148 - bot_manager - INFO - Message worker 40 started
+2026-10-16 17:24:52,149 - bot_manager - INFO - Message worker 41 started
+2026-10-16 17:24:52,149 - bot_manager - INFO - Message worker 42 started
+2026-10-16 17:24:52,149 - bot_manager - INFO - Message worker 43 started
+2026-10-16 17:24:52,150 - bot_manager - INFO - Message worker 44 started
+2026-10-16 17:24:52,151 - bot_manager - INFO - Message worker 45 started
+2026-10-16 17:24:52,151 - bot_manager - INFO - Message worker 46 started
+2026-10-16 17:24:52,151 - bot_manager - INFO - Message worker 47 started
+2026-10-16 17:24:52,151 - bot_manager - INFO - Message worker 48 started
+2026-10-16 17:24:52,151 - bot_manager - INFO - Message worker 49 started
+2026-10-16 17:25:14,413 - database - INFO - Created pair 1: lemox11 (-1004314878433 -> -1003865179095)
+2026-10-16 17:25:14,417 - bot_manager - INFO - Loaded 1 pairs from database
+2026-10-16 17:25:22,667 - bot_manager - INFO - Metrics - Processed: 0, Success Rate: 1.00, Queue: 0
+2026-10-16 17:25:23,707 - filters - INFO - Starting text filtering for pair 1
+2026-10-16 17:25:23,708 - message_processor - INFO - Text filtering completed - Lines: 1 → 1, Length: 3 → 3
+2026-10-16 17:25:23,708 - message_processor - INFO - Text unchanged by filters
+2026-10-16 17:25:23,708 - message_processor - INFO - [SEND_DEBUG] Starting message send - Chat: -1003865179095, Content length: 3, Media: None
+2026-10-16 17:25:23,708 - message_processor - INFO - Sending text message. Contains URLs: False, Content: Jai...
+2026-10-16 17:25:23,709 - message_processor - INFO - Setting disable_web_page_preview=True for message with URLs=False
+2026-10-16 17:25:25,031 - filters - INFO - Starting text filtering for pair 1
+2026-10-16 17:25:25,031 - message_processor - INFO - Text filtering completed - Lines: 1 → 1, Length: 4 → 4
+2026-10-16 17:25:25,031 - message_processor - INFO - Text unchanged by filters
+2026-10-16 17:25:25,031 - message_processor - INFO - [SEND_DEBUG] Starting message send - Chat: -1003865179095, Content length: 4, Media: None
+2026-10-16 17:25:25,031 - message_processor - INFO - Sending text message. Contains URLs: False, Content: Hind...
+2026-10-16 17:25:25,032 - message_processor - INFO - Setting disable_web_page_preview=True for message with URLs=False
+2026-10-16 17:25:26,772 - filters - INFO - Starting text filtering for pair 1
+2026-10-16 17:25:26,772 - message_processor - INFO - Text filtering completed - Lines: 1 → 1, Length: 2 → 2
+2026-10-16 17:25:26,772 - message_processor - INFO - Text unchanged by filters
+2026-10-16 17:25:26,773 - message_processor - INFO - [SEND_DEBUG] Starting message send - Chat: -1003865179095, Content length: 2, Media: None
+2026-10-16 17:25:26,773 - message_processor - INFO - Sending text message. Contains URLs: False, Content: Bc...
+2026-10-16 17:25:26,773 - message_processor - INFO - Setting disable_web_page_preview=True for message with URLs=False
+2026-10-16 17:25:38,783 - filters - INFO - Starting text filtering for pair 1
+2026-10-16 17:25:38,783 - message_processor - INFO - Text filtering completed - Lines: 1 → 1, Length: 19 → 19
+2026-10-16 17:25:38,783 - message_processor - INFO - Text unchanged by filters
+2026-10-16 17:25:38,783 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-10-16 17:25:39,583 - message_processor - INFO - [MEDIA_DEBUG] Starting media processing - Type: photo, MIME: None, Pair: 1
+2026-10-16 17:25:39,584 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-10-16 17:25:39,885 - message_processor - INFO - [MEDIA_DEBUG] Download completed - File: /tmp/insiderx_source_4jabni92.media, Size: 73355 bytes, Time: 0.30s, Pair: 1
+2026-10-16 17:25:39,885 - message_processor - INFO - [MEDIA_DEBUG] Watermark check - Enabled: False, Text: '@InsiderX', Type: photo, Pair: 1
+2026-10-16 17:25:39,885 - message_processor - INFO - [MEDIA_DEBUG] Skipping watermark - conditions not met, Pair: 1
+2026-10-16 17:25:39,886 - message_processor - INFO - [MEDIA_DEBUG] Extracting attributes - Type: photo, File: /tmp/insiderx_source_4jabni92.media, Pair: 1
+2026-10-16 17:25:39,886 - message_processor - INFO - [MEDIA_DEBUG] Returning media info - Type: photo, File: /tmp/insiderx_source_4jabni92.media, Size: 73355 bytes, Pair: 1
+2026-10-16 17:25:39,886 - message_processor - INFO - [MEDIA_DEBUG] Media info returned: True, Type: photo
+2026-10-16 17:25:39,886 - message_processor - INFO - [SEND_DEBUG] Starting message send - Chat: -1003865179095, Content length: 19, Media: photo
+2026-10-16 17:25:39,886 - message_processor - INFO - [SEND_DEBUG] Media send prep - Type: photo, File: /tmp/insiderx_source_4jabni92.media, Size: 73355 bytes
+2026-10-16 17:25:39,886 - message_processor - INFO - [SEND_DEBUG] Sending photo - Size: 73355 bytes, Caption: 19 chars
+2026-10-16 17:25:42,139 - message_processor - INFO - [SEND_DEBUG] Photo sent successfully - Message ID: 36, Time: 2.25s
+2026-10-16 17:25:52,361 - filters - INFO - Starting text filtering for pair 1
+2026-10-16 17:25:52,361 - message_processor - INFO - Text filtering completed - Lines: 1 → 1, Length: 23 → 23
+2026-10-16 17:25:52,361 - message_processor - INFO - Text unchanged by filters
+2026-10-16 17:25:52,361 - message_processor - INFO - [MEDIA_DEBUG] Starting media processing - Type: photo, MIME: None, Pair: 1
+2026-10-16 17:25:52,362 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-10-16 17:25:52,637 - message_processor - INFO - [MEDIA_DEBUG] Download completed - File: /tmp/insiderx_source_54u0mn0u.media, Size: 73355 bytes, Time: 0.28s, Pair: 1
+2026-10-16 17:25:52,637 - message_processor - INFO - [MEDIA_DEBUG] Watermark check - Enabled: False, Text: '@InsiderX', Type: photo, Pair: 1
+2026-10-16 17:25:52,637 - message_processor - INFO - [MEDIA_DEBUG] Skipping watermark - conditions not met, Pair: 1
+2026-10-16 17:25:52,637 - message_processor - INFO - [MEDIA_DEBUG] Extracting attributes - Type: photo, File: /tmp/insiderx_source_54u0mn0u.media, Pair: 1
+2026-10-16 17:25:52,637 - message_processor - INFO - [MEDIA_DEBUG] Returning media info - Type: photo, File: /tmp/insiderx_source_54u0mn0u.media, Size: 73355 bytes, Pair: 1
+2026-10-16 17:25:53,166 - bot_manager - INFO - Metrics - Processed: 4, Success Rate: 1.00, Queue: 0
+2026-10-16 17:26:23,677 - bot_manager - INFO - Metrics - Processed: 6, Success Rate: 1.00, Queue: 0
+2026-10-16 17:26:30,918 - filters - INFO - Starting text filtering for pair 1
+2026-10-16 17:26:30,918 - message_processor - INFO - Text filtering completed - Lines: 18 → 18, Length: 34 → 34
+2026-10-16 17:26:30,918 - message_processor - INFO - Text unchanged by filters
+2026-10-16 17:26:30,919 - message_processor - INFO - [SEND_DEBUG] Starting message send - Chat: -1003865179095, Content length: 34, Media: None
+2026-10-16 17:26:30,919 - message_processor - INFO - Sending text message. Contains URLs: False, Content: Lemo X2:
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9...
+2026-10-16 17:26:30,919 - message_processor - INFO - Setting disable_web_page_preview=True for message with URLs=False
+2026-10-16 17:26:39,346 - filters - INFO - Starting text filtering for pair 1
+2026-10-16 17:26:39,347 - message_processor - INFO - Text filtering completed - Lines: 1 → 1, Length: 1 → 1
+2026-10-16 17:26:39,347 - message_processor - INFO - Text unchanged by filters
+2026-10-16 17:26:39,348 - message_processor - INFO - [SEND_DEBUG] Starting message send - Chat: -1003865179095, Content length: 1, Media: None
+2026-10-16 17:26:39,349 - message_processor - INFO - Sending text message. Contains URLs: False, Content: 2...
+2026-10-16 17:26:39,349 - message_processor - INFO - Setting disable_web_page_preview=True for message with URLs=False
+2026-10-16 17:26:40,823 - filters - INFO - Starting text filtering for pair 1
+2026-10-16 17:26:40,823 - message_processor - INFO - Text filtering completed - Lines: 1 → 1, Length: 1 → 1
+2026-10-16 17:26:40,823 - message_processor - INFO - Text unchanged by filters
+2026-10-16 17:26:40,823 - message_processor - INFO - [SEND_DEBUG] Starting message send - Chat: -1003865179095, Content length: 1, Media: None
+2026-10-16 17:26:40,823 - message_processor - INFO - Sending text message. Contains URLs: False, Content: 3...
+2026-10-16 17:26:40,823 - message_processor - INFO - Setting disable_web_page_preview=True for message with URLs=False
+2026-10-16 17:26:42,369 - filters - INFO - Starting text filtering for pair 1
+2026-10-16 17:26:42,370 - message_processor - INFO - Text filtering completed - Lines: 1 → 1, Length: 1 → 1
+2026-10-16 17:26:42,370 - message_processor - INFO - Text unchanged by filters
+2026-10-16 17:26:42,370 - message_processor - INFO - [SEND_DEBUG] Starting message send - Chat: -1003865179095, Content length: 1, Media: None
+2026-10-16 17:26:42,370 - message_processor - INFO - Sending text message. Contains URLs: False, Content: 4...
+2026-10-16 17:26:42,370 - message_processor - INFO - Setting disable_web_page_preview=True for message with URLs=False
+2026-10-16 17:26:54,176 - bot_manager - INFO - Metrics - Processed: 11, Success Rate: 1.00, Queue: 0
+2026-10-16 17:27:24,685 - bot_manager - INFO - Metrics - Processed: 12, Success Rate: 1.00, Queue: 0
+2026-10-16 17:27:28,678 - bot_manager - INFO - Loaded 1 pairs from database
+2026-10-16 17:27:38,952 - filters - INFO - Starting text filtering for pair 1
+2026-10-16 17:27:38,952 - message_processor - INFO - Text filtering completed - Lines: 1 → 1, Length: 0 → 0
+2026-10-16 17:27:38,952 - message_processor - INFO - Text unchanged by filters
+2026-10-16 17:27:38,952 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-10-16 17:27:39,296 - message_processor - INFO - [MEDIA_DEBUG] Starting media processing - Type: photo, MIME: None, Pair: 1
+2026-10-16 17:27:39,297 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-10-16 17:27:39,592 - message_processor - INFO - [MEDIA_DEBUG] Download completed - File: /tmp/insiderx_source__w3ows_j.media, Size: 116457 bytes, Time: 0.30s, Pair: 1
+2026-10-16 17:27:39,592 - message_processor - INFO - [MEDIA_DEBUG] Watermark check - Enabled: True, Text: '@InsiderX', Type: photo, Pair: 1
+2026-10-16 17:27:39,594 - message_processor - INFO - [MEDIA_DEBUG] Starting watermark - Input: /tmp/insiderx_source__w3ows_j.media, Output: /tmp/insiderx_watermark_z0zv8mmd.jpg, Text: '@InsiderX', Pair: 1
+2026-10-16 17:27:39,624 - image_handler - INFO - Watermark applied: /tmp/insiderx_watermark_z0zv8mmd.jpg (575x1280, font=93, text width=85.6%, centered, alpha=16.5%)
+2026-10-16 17:27:39,626 - message_processor - INFO - [MEDIA_DEBUG] Watermark success - Size: 175474 bytes, Time: 0.03s, Pair: 1
+2026-10-16 17:27:39,626 - message_processor - INFO - [MEDIA_DEBUG] Extracting attributes - Type: photo, File: /tmp/insiderx_watermark_z0zv8mmd.jpg, Pair: 1
+2026-10-16 17:27:39,626 - message_processor - INFO - [MEDIA_DEBUG] Returning media info - Type: photo, File: /tmp/insiderx_watermark_z0zv8mmd.jpg, Size: 175474 bytes, Pair: 1
+2026-10-16 17:27:39,627 - message_processor - INFO - [MEDIA_DEBUG] Media info returned: True, Type: photo
+2026-10-16 17:27:39,627 - message_processor - INFO - [SEND_DEBUG] Starting message send - Chat: -1003865179095, Content length: 0, Media: photo
+2026-10-16 17:27:39,627 - message_processor - INFO - [SEND_DEBUG] Media send prep - Type: photo, File: /tmp/insiderx_watermark_z0zv8mmd.jpg, Size: 175474 bytes
+2026-10-16 17:27:39,627 - message_processor - INFO - [SEND_DEBUG] Sending photo - Size: 175474 bytes, Caption: 0 chars
+2026-10-16 17:27:41,831 - message_processor - INFO - [SEND_DEBUG] Photo sent successfully - Message ID: 50, Time: 2.20s
+2026-10-16 17:27:55,205 - bot_manager - INFO - Metrics - Processed: 13, Success Rate: 1.00, Queue: 0
+2026-10-16 17:28:03,527 - filters - INFO - Starting text filtering for pair 1
+2026-10-16 17:28:03,527 - message_processor - INFO - Text filtering completed - Lines: 1 → 1, Length: 0 → 0
+2026-10-16 17:28:03,527 - message_processor - INFO - Text unchanged by filters
+2026-10-16 17:28:03,528 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-10-16 17:28:03,878 - message_processor - INFO - [MEDIA_DEBUG] Starting media processing - Type: photo, MIME: None, Pair: 1
+2026-10-16 17:28:03,878 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-10-16 17:28:04,058 - message_processor - INFO - [MEDIA_DEBUG] Download completed - File: /tmp/insiderx_source_ttealccd.media, Size: 9602 bytes, Time: 0.18s, Pair: 1
+2026-10-16 17:28:04,058 - message_processor - INFO - [MEDIA_DEBUG] Watermark check - Enabled: True, Text: '@InsiderX', Type: photo, Pair: 1
+2026-10-16 17:28:04,059 - message_processor - INFO - [MEDIA_DEBUG] Starting watermark - Input: /tmp/insiderx_source_ttealccd.media, Output: /tmp/insiderx_watermark_9ounhn4s.jpg, Text: '@InsiderX', Pair: 1
+2026-10-16 17:28:04,082 - image_handler - INFO - Watermark applied: /tmp/insiderx_watermark_9ounhn4s.jpg (575x1280, font=93, text width=85.6%, centered, alpha=16.5%)
+2026-10-16 17:28:04,084 - message_processor - INFO - [MEDIA_DEBUG] Watermark success - Size: 23511 bytes, Time: 0.03s, Pair: 1
+2026-10-16 17:28:04,084 - message_processor - INFO - [MEDIA_DEBUG] Extracting attributes - Type: photo, File: /tmp/insiderx_watermark_9ounhn4s.jpg, Pair: 1
+2026-10-16 17:28:04,085 - message_processor - INFO - [MEDIA_DEBUG] Returning media info - Type: photo, File: /tmp/insiderx_watermark_9ounhn4s.jpg, Size: 23511 bytes, Pair: 1
+2026-10-16 17:28:04,085 - message_processor - INFO - [MEDIA_DEBUG] Media info returned: True, Type: photo
+2026-10-16 17:28:04,085 - message_processor - INFO - [SEND_DEBUG] Starting message send - Chat: -1003865179095, Content length: 0, Media: photo
+2026-10-16 17:28:04,085 - message_processor - INFO - [SEND_DEBUG] Media send prep - Type: photo, File: /tmp/insiderx_watermark_9ounhn4s.jpg, Size: 23511 bytes
+2026-10-16 17:28:04,085 - message_processor - INFO - [SEND_DEBUG] Sending photo - Size: 23511 bytes, Caption: 0 chars
+2026-10-16 17:28:05,312 - message_processor - INFO - [SEND_DEBUG] Photo sent successfully - Message ID: 51, Time: 1.23s
+2026-10-16 17:28:25,373 - bot_manager - INFO - Metrics - Processed: 14, Success Rate: 1.00, Queue: 0
+2026-10-16 17:28:41,327 - bot_manager - INFO - Loaded 1 pairs from database
+2026-10-16 17:28:49,359 - filters - INFO - Starting text filtering for pair 1
+2026-10-16 17:28:49,359 - message_processor - INFO - Text filtering completed - Lines: 1 → 1, Length: 0 → 0
+2026-10-16 17:28:49,359 - message_processor - INFO - Text unchanged by filters
+2026-10-16 17:28:49,359 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-10-16 17:28:49,608 - message_processor - INFO - [MEDIA_DEBUG] Starting media processing - Type: photo, MIME: None, Pair: 1
+2026-10-16 17:28:49,609 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-10-16 17:28:49,848 - message_processor - INFO - [MEDIA_DEBUG] Download completed - File: /tmp/insiderx_source_9y_cg4_v.media, Size: 67235 bytes, Time: 0.24s, Pair: 1
+2026-10-16 17:28:49,849 - message_processor - INFO - [MEDIA_DEBUG] Watermark check - Enabled: True, Text: 'Forex Insider Leaks', Type: photo, Pair: 1
+2026-10-16 17:28:49,849 - message_processor - INFO - [MEDIA_DEBUG] Starting watermark - Input: /tmp/insiderx_source_9y_cg4_v.media, Output: /tmp/insiderx_watermark_5g06to8i.jpg, Text: 'Forex Insider Leaks', Pair: 1
+2026-10-16 17:28:49,875 - image_handler - INFO - Watermark applied: /tmp/insiderx_watermark_5g06to8i.jpg (575x1280, font=49, text width=85.7%, centered, alpha=16.5%)
+2026-10-16 17:28:49,877 - message_processor - INFO - [MEDIA_DEBUG] Watermark success - Size: 97554 bytes, Time: 0.03s, Pair: 1
+2026-10-16 17:28:49,877 - message_processor - INFO - [MEDIA_DEBUG] Extracting attributes - Type: photo, File: /tmp/insiderx_watermark_5g06to8i.jpg, Pair: 1
+2026-10-16 17:28:49,877 - message_processor - INFO - [MEDIA_DEBUG] Returning media info - Type: photo, File: /tmp/insiderx_watermark_5g06to8i.jpg, Size: 97554 bytes, Pair: 1
+2026-10-16 17:28:49,877 - message_processor - INFO - [MEDIA_DEBUG] Media info returned: True, Type: photo
+2026-10-16 17:28:49,878 - message_processor - INFO - [SEND_DEBUG] Starting message send - Chat: -1003865179095, Content length: 0, Media: photo
+2026-10-16 17:28:49,878 - message_processor - INFO - [SEND_DEBUG] Media send prep - Type: photo, File: /tmp/insiderx_watermark_5g06to8i.jpg, Size: 97554 bytes
+2026-10-16 17:28:49,878 - message_processor - INFO - [SEND_DEBUG] Sending photo - Size: 97554 bytes, Caption: 0 chars
+2026-10-16 17:28:51,722 - message_processor - INFO - [SEND_DEBUG] Photo sent successfully - Message ID: 52, Time: 1.84s
+2026-10-16 17:28:55,542 - bot_manager - INFO - Metrics - Processed: 15, Success Rate: 1.00, Queue: 0
+2026-10-16 17:29:13,268 - filters - INFO - Starting text filtering for pair 1
+2026-10-16 17:29:13,268 - message_processor - INFO - Text filtering completed - Lines: 1 → 1, Length: 0 → 0
+2026-10-16 17:29:13,268 - message_processor - INFO - Text unchanged by filters
+2026-10-16 17:29:13,268 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-10-16 17:29:13,523 - message_processor - INFO - [MEDIA_DEBUG] Starting media processing - Type: photo, MIME: None, Pair: 1
+2026-10-16 17:29:13,524 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-10-16 17:29:13,771 - message_processor - INFO - [MEDIA_DEBUG] Download completed - File: /tmp/insiderx_source_em45xn_h.media, Size: 74575 bytes, Time: 0.25s, Pair: 1
+2026-10-16 17:29:13,772 - message_processor - INFO - [MEDIA_DEBUG] Watermark check - Enabled: True, Text: 'Forex Insider Leaks', Type: photo, Pair: 1
+2026-10-16 17:29:13,772 - message_processor - INFO - [MEDIA_DEBUG] Starting watermark - Input: /tmp/insiderx_source_em45xn_h.media, Output: /tmp/insiderx_watermark_2fkdumij.jpg, Text: 'Forex Insider Leaks', Pair: 1
+2026-10-16 17:29:13,806 - image_handler - INFO - Watermark applied: /tmp/insiderx_watermark_2fkdumij.jpg (591x1280, font=50, text width=85.1%, centered, alpha=16.5%)
+2026-10-16 17:29:13,808 - message_processor - INFO - [MEDIA_DEBUG] Watermark success - Size: 117748 bytes, Time: 0.04s, Pair: 1
+2026-10-16 17:29:13,808 - message_processor - INFO - [MEDIA_DEBUG] Extracting attributes - Type: photo, File: /tmp/insiderx_watermark_2fkdumij.jpg, Pair: 1
+2026-10-16 17:29:13,809 - message_processor - INFO - [MEDIA_DEBUG] Returning media info - Type: photo, File: /tmp/insiderx_watermark_2fkdumij.jpg, Size: 117748 bytes, Pair: 1
+2026-10-16 17:29:13,809 - message_processor - INFO - [MEDIA_DEBUG] Media info returned: True, Type: photo
+2026-10-16 17:29:13,809 - message_processor - INFO - [SEND_DEBUG] Starting message send - Chat: -1003865179095, Content length: 0, Media: photo
+2026-10-16 17:29:13,809 - message_processor - INFO - [SEND_DEBUG] Media send prep - Type: photo, File: /tmp/insiderx_watermark_2fkdumij.jpg, Size: 117748 bytes
+2026-10-16 17:29:13,809 - message_processor - INFO - [SEND_DEBUG] Sending photo - Size: 117748 bytes, Caption: 0 chars
+2026-10-16 17:29:15,622 - message_processor - INFO - [SEND_DEBUG] Photo sent successfully - Message ID: 53, Time: 1.81s
+2026-10-16 17:29:26,048 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:29:56,549 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:30:27,079 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:30:45,226 - bot_manager - INFO - Successfully kicked user 1558210832 from channel -1003865179095
+2026-10-16 17:30:57,587 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:31:28,088 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:31:58,601 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:32:04,663 - database - INFO - Saved bot token: Fx (Fx_tlx_bot)
+2026-10-16 17:32:29,113 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:32:59,620 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:33:30,139 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:34:00,639 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:34:31,150 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:35:01,660 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:35:32,178 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:36:02,687 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:36:33,218 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:37:03,885 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:37:34,392 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:38:04,893 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:38:35,408 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:39:05,907 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:39:36,416 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:40:06,915 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:40:37,439 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:41:07,937 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:41:38,443 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:42:08,943 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:42:39,459 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:43:09,959 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:43:40,465 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:44:10,963 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:44:41,467 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:45:11,967 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:45:42,491 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:46:12,992 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:46:43,503 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:47:14,004 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:47:44,513 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:48:15,014 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:48:45,525 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:49:16,025 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:49:46,532 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:50:17,041 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:50:47,546 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:51:18,051 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:51:48,566 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:52:19,066 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:52:49,573 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:53:20,079 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:53:50,590 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:54:21,093 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:54:51,604 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:54:51,642 - telethon.client.updates - INFO - Got difference for channel 1590958755 updates
+2026-10-16 17:55:22,104 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:55:52,636 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:56:23,144 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:56:53,656 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:57:24,154 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:57:54,665 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:58:25,166 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:58:55,672 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:59:26,171 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 17:59:56,703 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 18:00:27,203 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 18:00:57,708 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 18:01:28,216 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 18:01:58,726 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 18:02:29,239 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 18:02:59,749 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 18:03:30,249 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
+2026-10-16 18:04:00,765 - bot_manager - INFO - Metrics - Processed: 16, Success Rate: 1.00, Queue: 0
